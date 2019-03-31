@@ -1,7 +1,6 @@
 # OCR
 
-[![How to Read Text from Image in ReactNative](https://img.youtube.com/vi/KAAS1oGddUk/0.jpg)](https://www.youtube.com/watch?v=KAAS1oGddUk)
-[linkname](https://youtu.be/KAAS1oGddUk)
+[![How to Read Text from Image in ReactNative](http://img.youtube.com/vi/KAAS1oGddUk/0.jpg)](http://www.youtube.com/watch?v=KAAS1oGddUk "How to Read Text from Image in ReactNative")
 
 **SUBSCRIBE**
 Our Channel
