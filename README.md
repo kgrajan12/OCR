@@ -12,8 +12,8 @@ Our Channel
 *Share your Knowledge here...*
 
 cmd Line:
-  ` npm i react-native-tesseract-ocr --save
-  react-native link react-native-tesseract-ocr`
+  `npm i react-native-tesseract-ocr --save`
+  `react-native link react-native-tesseract-ocr`
   
 [click here](http://ethobleo.com/Jgi "click here") to download the trained Data
 
